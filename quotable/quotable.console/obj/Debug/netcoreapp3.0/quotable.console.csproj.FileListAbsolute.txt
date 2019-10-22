@@ -1,0 +1,14 @@
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.console.exe
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.console.deps.json
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.console.runtimeconfig.json
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.console.runtimeconfig.dev.json
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.console.dll
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.console.pdb
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.core.dll
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\bin\Debug\netcoreapp3.0\quotable.core.pdb
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\obj\Debug\netcoreapp3.0\quotable.console.csprojAssemblyReference.cache
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\obj\Debug\netcoreapp3.0\quotable.console.AssemblyInfoInputs.cache
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\obj\Debug\netcoreapp3.0\quotable.console.AssemblyInfo.cs
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\obj\Debug\netcoreapp3.0\quotable.console.csproj.CopyComplete
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\obj\Debug\netcoreapp3.0\quotable.console.dll
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.console\obj\Debug\netcoreapp3.0\quotable.console.pdb

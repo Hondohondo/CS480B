@@ -1,0 +1,8 @@
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\bin\Debug\netstandard2.0\quotable.core.deps.json
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\bin\Debug\netstandard2.0\quotable.core.dll
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\bin\Debug\netstandard2.0\quotable.core.pdb
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\obj\Debug\netstandard2.0\quotable.core.csprojAssemblyReference.cache
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\obj\Debug\netstandard2.0\quotable.core.AssemblyInfoInputs.cache
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\obj\Debug\netstandard2.0\quotable.core.AssemblyInfo.cs
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\obj\Debug\netstandard2.0\quotable.core.dll
+C:\Users\Ami Amigo\Documents\CS480\quotable\quotable.core\obj\Debug\netstandard2.0\quotable.core.pdb
